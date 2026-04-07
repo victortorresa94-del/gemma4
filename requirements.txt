@@ -1,0 +1,15 @@
+transformers>=4.40.0
+torch
+torchvision
+accelerate
+bitsandbytes
+scipy
+sentencepiece
+protobuf
+fastapi
+uvicorn
+python-multipart
+jinja2
+librosa
+torchcodec
+huggingface_hub
